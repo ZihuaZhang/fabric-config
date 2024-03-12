@@ -16,12 +16,12 @@ import (
 	"testing"
 	"time"
 
+	"github.com/ZihuaZhang/fabric-config/configtx/orderer"
+	"github.com/ZihuaZhang/fabric-config/protolator"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/ordererext"
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
+	ob "github.com/ZihuaZhang/fabric-protos-go/orderer"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/configtx/orderer"
-	"github.com/hyperledger/fabric-config/protolator"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ordererext"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	ob "github.com/hyperledger/fabric-protos-go/orderer"
 	. "github.com/onsi/gomega"
 )
 

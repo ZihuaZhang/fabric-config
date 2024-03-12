@@ -8,12 +8,11 @@ package configtx
 
 import (
 	"bytes"
-	"testing"
-
-	"github.com/hyperledger/fabric-config/protolator"
-	"github.com/hyperledger/fabric-config/protolator/protoext/commonext"
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	"github.com/ZihuaZhang/fabric-config/protolator"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/commonext"
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
+	"testing"
 )
 
 func TestChannelCapabilities(t *testing.T) {

@@ -15,10 +15,10 @@ import (
 	"math/big"
 	"testing"
 
+	"github.com/ZihuaZhang/fabric-config/protolator"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/commonext"
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/protolator"
-	"github.com/hyperledger/fabric-config/protolator/protoext/commonext"
-	cb "github.com/hyperledger/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
 )
 

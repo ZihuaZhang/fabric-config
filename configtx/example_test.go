@@ -19,14 +19,14 @@ import (
 	"testing"
 	"time"
 
+	"github.com/ZihuaZhang/fabric-config/configtx"
+	"github.com/ZihuaZhang/fabric-config/configtx/membership"
+	"github.com/ZihuaZhang/fabric-config/configtx/orderer"
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
+	mb "github.com/ZihuaZhang/fabric-protos-go/msp"
+	ob "github.com/ZihuaZhang/fabric-protos-go/orderer"
+	pb "github.com/ZihuaZhang/fabric-protos-go/peer"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/configtx"
-	"github.com/hyperledger/fabric-config/configtx/membership"
-	"github.com/hyperledger/fabric-config/configtx/orderer"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	mb "github.com/hyperledger/fabric-protos-go/msp"
-	ob "github.com/hyperledger/fabric-protos-go/orderer"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
 	. "github.com/onsi/gomega"
 )
 

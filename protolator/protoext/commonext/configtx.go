@@ -9,8 +9,8 @@ package commonext
 import (
 	"fmt"
 
+	"github.com/ZihuaZhang/fabric-protos-go/common"
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/common"
 )
 
 type ConfigUpdateEnvelope struct{ *common.ConfigUpdateEnvelope }

@@ -11,17 +11,16 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/hyperledger/fabric-config/protolator/protoext/commonext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ledger/rwsetext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/mspext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ordererext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/peerext"
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset"
-	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric-protos-go/orderer"
-	"github.com/hyperledger/fabric-protos-go/peer"
-
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/commonext"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/ledger/rwsetext"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/mspext"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/ordererext"
+	"github.com/ZihuaZhang/fabric-config/protolator/protoext/peerext"
+	"github.com/ZihuaZhang/fabric-protos-go/common"
+	"github.com/ZihuaZhang/fabric-protos-go/ledger/rwset"
+	"github.com/ZihuaZhang/fabric-protos-go/msp"
+	"github.com/ZihuaZhang/fabric-protos-go/orderer"
+	"github.com/ZihuaZhang/fabric-protos-go/peer"
 	. "github.com/onsi/gomega"
 )
 

@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
 	"github.com/golang/protobuf/proto"
-	cb "github.com/hyperledger/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
 )
 

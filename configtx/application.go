@@ -10,9 +10,9 @@ import (
 	"errors"
 	"fmt"
 
+	cb "github.com/ZihuaZhang/fabric-protos-go/common"
+	pb "github.com/ZihuaZhang/fabric-protos-go/peer"
 	"github.com/golang/protobuf/proto"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
 )
 
 // Application is a copy of the orderer configuration with the addition of an anchor peers

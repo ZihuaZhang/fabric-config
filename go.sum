@@ -1,7 +1,7 @@
 github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
 github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
-github.com/ZihuaZhang/fabric-protos-go v1.0.4 h1:rlIQPn7ztP+hVJJkKJ+Gu2RR+GO+RggsKBR/NN+KeTM=
-github.com/ZihuaZhang/fabric-protos-go v1.0.4/go.mod h1:HylisX1A7zxm0V1psjDNC6Qg/4JcXOHHF6ITb/YeYkM=
+github.com/ZihuaZhang/fabric-protos-go v1.0.5 h1:HAib1xyK9pyNmWcksB8LFdUxwXgiYZ5YbKSlZMjGI3s=
+github.com/ZihuaZhang/fabric-protos-go v1.0.5/go.mod h1:Q8O8lWhC0am/dadMaTu7xx29Y1J9ds0ZedHzyQph6w0=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
@@ -9,6 +9,8 @@ github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/hpcloud/tail v1.0.0 h1:nfCOvKYfkgYP8hkirhJocXT2+zOD8yUNjXaWfTlyFKI=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
+github.com/hyperledger/fabric-protos-go v0.3.3 h1:0nssqz8QWJNVNBVQz+IIfAd2j1ku7QPKFSM/1anKizI=
+github.com/hyperledger/fabric-protos-go v0.3.3/go.mod h1:BPXse9gIOQwyAePQrwQVUcc44bTW4bB5V3tujuvyArk=
 github.com/onsi/ginkgo v1.6.0 h1:Ix8l273rp3QzYgXSR+c8d1fTG7UPgYkOSELPhiY/YGw=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.9.0 h1:R1uwffexN6Pr340GtYRIdZmAiN4J+iw6WG4wog1DUXg=

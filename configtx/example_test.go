@@ -23,10 +23,10 @@ import (
 	"github.com/ZihuaZhang/fabric-config/configtx/membership"
 	"github.com/ZihuaZhang/fabric-config/configtx/orderer"
 	cb "github.com/ZihuaZhang/fabric-protos-go/common"
-	mb "github.com/ZihuaZhang/fabric-protos-go/msp"
 	ob "github.com/ZihuaZhang/fabric-protos-go/orderer"
 	pb "github.com/ZihuaZhang/fabric-protos-go/peer"
 	"github.com/golang/protobuf/proto"
+	mb "github.com/hyperledger/fabric-protos-go/msp"
 	. "github.com/onsi/gomega"
 )
 

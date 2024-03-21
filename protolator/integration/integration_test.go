@@ -142,6 +142,8 @@ func TestEmitDefaultsBug(t *testing.T) {
 						"signature_header": null
 					}
 				},
+				"redactMessage": null,
+				"redactable": false,
 				"signature": "YmFy"
 			}
 		]

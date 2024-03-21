@@ -571,6 +571,8 @@
 						}
 					}
 				},
+				"redactMessage": null,
+				"redactable": false,
 				"signature": null
 			}
 		]
